@@ -4,4 +4,4 @@ TZ = "Asia/Manila"
 
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "GIT_SUBMODULES=0 hugo --gc --minify"
