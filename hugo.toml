@@ -1,0 +1,47 @@
+baseURL = 'https://example.org/'
+
+languageCode = 'en-us'
+
+defaultContentLanguage = "en"
+
+title = 'Casual Grinder Novellettes'
+
+theme = "dream"
+
+[params]
+
+lightTheme = "emerald"
+
+darkTheme = "forest"
+
+author = "Casual Grinder"
+
+description = "Casual Grinder's novellette Collection"
+
+headerTitle = "Casual Grinder Novellettes"
+
+motto = "The only freedom we all have is the freedom to choose our own chain."
+
+avatar = "https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no"
+
+favicon = "https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no"
+
+footerBottomText = "The Hymn In Darkness Project"
+
+reorderNavItems = ["about"]
+
+stickyNav = true
+
+rss = true
+
+
+[services]
+
+[services.disqus]
+
+shortname = "casual"
+
+
+# [markup]
+# [markup.highlight]
+# noClasses = false
