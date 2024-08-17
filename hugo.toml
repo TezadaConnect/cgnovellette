@@ -39,9 +39,9 @@ instagram = "https://www.instagram.com/casualgrinder/"
 
 [services]
 
-[services.disqus]
+# [services.disqus]
 
-shortname = "casual"
+# shortname = "casual"
 
 
 # [markup]
