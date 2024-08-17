@@ -37,9 +37,9 @@ rss = true
 
 [services]
 
-# [services.disqus]
+[services.disqus]
 
-# shortname = "casual"
+shortname = "casual"
 
 
 # [markup]
