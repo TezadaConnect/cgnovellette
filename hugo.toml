@@ -4,11 +4,15 @@ languageCode = 'en-us'
 
 defaultContentLanguage = "en"
 
-title = 'Casual Grinder Novellettes'
+title = 'Casual Grinder Stories'
 
 theme = "dream"
 
 [params]
+
+# backgroundImage = "https://images7.alphacoders.com/131/thumb-1920-1314311.jpg"
+
+# backgroundImageDark = "https://images5.alphacoders.com/646/thumb-1920-646221.jpg"
 
 lightTheme = "emerald"
 
@@ -16,11 +20,11 @@ darkTheme = "forest"
 
 author = "Casual Grinder"
 
-description = "Casual Grinder's novellette Collection"
+description = "Casual Grinder's Short Story Collection"
 
-headerTitle = "Casual Grinder Novellettes"
+headerTitle = "Casual Grinder Stories"
 
-motto = "The only freedom we all have is the freedom to choose our own chain."
+motto = "I take characters into deep waters and they discover themselves."
 
 avatar = "https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no"
 
@@ -28,20 +32,21 @@ favicon = "https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85s
 
 footerBottomText = "The Hymn In Darkness Project"
 
-reorderNavItems = ["about"]
+reorderNavItems = ["about", "search"]
 
 stickyNav = true
 
 rss = true
 
 
-[services]
+# [services]
 
 # [services.disqus]
 
 # shortname = "casual"
 
-
 # [markup]
+
 # [markup.highlight]
+
 # noClasses = false

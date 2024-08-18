@@ -6,7 +6,7 @@
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Posts | Casual Grinder Stories</title>
+    <title>Search | Casual Grinder Stories</title>
 
     
 <link href="https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no" rel="shortcut icon" type="image/x-icon" />
@@ -15,15 +15,15 @@
 
 
 <meta name="author" content="Casual Grinder" />
-<meta name="description" content="" />
+<meta name="description" content="Casual Grinder&#39;s Short Story Collection" />
 
 
-<link rel="canonical" href="http://localhost:1313/posts/" />
+<link rel="canonical" href="http://localhost:1313/search/" />
 
 
-<meta property="og:url" content="http://localhost:1313/posts/">
+<meta property="og:url" content="http://localhost:1313/search/">
   <meta property="og:site_name" content="Casual Grinder Stories">
-  <meta property="og:title" content="Posts">
+  <meta property="og:title" content="Casual Grinder Stories">
   <meta property="og:description" content="Casual Grinder&#39;s Short Story Collection">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
@@ -32,7 +32,7 @@
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Posts">
+  <meta name="twitter:title" content="Casual Grinder Stories">
   <meta name="twitter:description" content="Casual Grinder&#39;s Short Story Collection">
 
 
@@ -176,40 +176,56 @@
           <div class="container">
             
 
-<div class="mt-8 lg:mt-12 px-4">
-  <div class="mx-auto prose dark:prose-invert">
-    <h1 class="text-3xl">
-      Archives
-    </h1>
-    
-  </div>
+<div class="mt-8 lg:mt-12 px-4" x-data="{
+  search: '',
+  get posts() { return this.search !== '' ? window.fuse.search(this.search) : [] },
+}">
+  <label class="input input-bordered flex items-center gap-2">
+    <input type="text" class="grow" placeholder="Search" x-model.debounce="search" />
+    <ion-icon name="search"></ion-icon>
+  </label>
 
-  <div class="max-w-[65ch] mx-auto mt-8 lg:mt-12">
-    <ul class="timeline timeline-vertical">
-      
-      <li class="[--timeline-col-start:64px]">
-        <hr class="dark:bg-base-content" />
-        <div class="timeline-start !justify-self-start">
-          <div class="text-lg font-semibold">2024</div>
+  <div class="mt-8 space-y-4">
+  <template x-for="post in posts">
+    <a class="card card-compact bg-base-100 hover:bg-base-content/10 cursor-pointer border border-base-content/30" :href="post.item.url">
+      <div class="card-body">
+        <h2 class="card-title" x-text="post.item.title"></h2>
+
+        <div x-html="post.item.description"></div>
+
+        <div class="card-actions justify-between items-center mt-4">
+          <div class="flex items-center">
+            <template x-if="post.item.avatar">
+            <div class="avatar mr-1">
+              <div class="w-8 rounded-full">
+                <img class="my-0" :src="post.item.avatar" :alt="post.item.author" />
+              </div>
+            </div>
+            </template>
+            <template x-if="!post.item.avatar">
+            <span>@</span>
+            </template>
+
+            <template x-if="post.item.author">
+            <span x-text="post.item.author"></span>
+            </template>
+            <template x-if="!post.item.author">
+            <span x-text="Casual Grinder"></span>
+            </template>
+            </span>
+          </div>
+
+          <div class="inline-flex items-center">
+            <ion-icon name="time" class="mr-1"></ion-icon>
+            <span><span x-text="post.item.readingTime"></span> minutes read</span>
+          </div>
         </div>
-        <div class="timeline-middle flex items-center mx-8 my-2">
-          <ion-icon name="time"></ion-icon>
-        </div>
-        <div class="timeline-end timeline-box dark:border-base-content/60 prose dark:prose-invert my-8">
-          <ul>
-            
-            <li>
-              <a href="/posts/article-title/">Whispering Nature</a>
-            </li>
-            
-          </ul>
-        </div>
-        <hr class="dark:bg-base-content" />
-      </li>
-      
-    </ul>
+      </div>
+    </a>
+  </template>
   </div>
 </div>
+
 
 
             <footer class="flex justify-between items-center gap-2 px-4 py-12">
@@ -345,7 +361,26 @@
 <script src="/js/grid.js"></script>
 <script src="/js/main.js"></script>
 
-     
+    
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<script>
+  var fuseData = [{"author":"CasualGrinder","avatar":null,"categories":["World Of Altehex"],"description":"The hiss of the grass had been going on for an hour now. Lilac was panting as she desperately clung to her prey for the day, moving with precise efficiency as she chased the wild, carnivorous buck. Not just any buck, but a huge gray one. Lilac was armed with a formidable arsenal of hunting weapons, yet they seemed ineffective against the wounded beast.\nAs the minutes passed, Lilac tripped and fell onto the grassy land of the Yagacan plains, a place where tall grass and scattered shrubs stood against the piercing sunlight.","readingTime":3,"tags":["short-story"],"title":"Whispering Nature","url":"/posts/article-title/"}];
+  var fuseOptions = {
+    keys: [
+      "title",
+    ]
+  };
+
+  var fuse = new Fuse(fuseData, fuseOptions);
+</script>
+
+
 
     
 

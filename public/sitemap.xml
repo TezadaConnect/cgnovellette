@@ -9,7 +9,20 @@
     <lastmod>2024-08-16T13:38:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-08-16T11:16:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/short-story/</loc>
+    <lastmod>2024-08-16T11:16:15+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-16T11:16:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/article-title/</loc>
+    <lastmod>2024-08-16T11:16:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/world-of-altehex/</loc>
+    <lastmod>2024-08-16T11:16:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
