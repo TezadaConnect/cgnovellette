@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Casual Grinder Novellettes</title>
-    <link>http://localhost:51255/tags/</link>
+    <link>http://localhost:52326/tags/</link>
     <description>Recent content in Tags on Casual Grinder Novellettes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Aug 2024 22:44:16 +0800</lastBuildDate>
-    <atom:link href="http://localhost:51255/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52326/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lore</title>
-      <link>http://localhost:51255/tags/lore/</link>
+      <link>http://localhost:52326/tags/lore/</link>
       <pubDate>Tue, 20 Aug 2024 22:44:16 +0800</pubDate>
-      <guid>http://localhost:51255/tags/lore/</guid>
+      <guid>http://localhost:52326/tags/lore/</guid>
       <description></description>
     </item>
   </channel>

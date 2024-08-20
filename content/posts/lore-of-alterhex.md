@@ -6,8 +6,8 @@ author: CasualGrinder
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: https://pics.craiyon.com/2023-11-22/H3Dl5SYqSMab5zNwZrHDcA.webp
-# images:
-#   - /img/cover.jpg
+images:
+  - https://pics.craiyon.com/2023-11-22/H3Dl5SYqSMab5zNwZrHDcA.webp
 categories:
   - World Of Alterhex
 tags:
@@ -28,11 +28,11 @@ The Light Dragon, ever proud, mocked the Fire Dragon's efforts and demonstrated 
 
 Desiring living beings to cherish her creation, the Earth Dragon brought forth the elves from bamboo sprouts. These beings, endowed with a profound connection to the earth, flourished under Gaia’s favor.
 
-The Fire Dragon, humbled and inspired by the Earth Dragon's success, sought guidance to create life. Over millennia, she gave birth to the most intricate and perfect beings—humans—though they were powerless, they thrived under the Fire Dragon’s nurturing love.
-
 The Light Dragon, intrigued by this new creation, celebrated it, while the Earth Dragon took pride in her work. The Dark Dragon remained indifferent. The Light Dragon's mocking continued as it forged an army of divine beings known as Angels, possessing immense knowledge and power.
 
-The remaining dragons, witnessing the rise of these celestial armies, each crafted their own legions—beasts of varying forms and powers, capable of great destruction.
+The Fire Dragon, humbled and inspired by the Earth Dragon's success, sought guidance to create life. Over millennia, she gave birth to the most intricate and perfect beings—humans—though they were powerless, they thrived under the Fire Dragon’s nurturing love.
+
+The remaining dragons, witnessing the rise of the elves, celestial armies, and humans, each crafted their own legions—beasts of varying forms and powers capable of great destruction.
 
 In the midst of this divine drama, the God of Fate visited the Dark Dragon. The Dark Dragon, indifferent at first, felt the weight of fate as it began to envelop him. Despite his efforts to resist, the corruption spread, leading him to sever his own form into four parts: head, tail, left wing, and right wing. From this schism, the Demons were born.
 
