@@ -4,7 +4,7 @@ languageCode = 'en-us'
 
 defaultContentLanguage = "en"
 
-title = 'Casual Grinder Stories'
+title = 'Casual Grinder Novellettes'
 
 theme = "dream"
 
@@ -20,9 +20,9 @@ darkTheme = "forest"
 
 author = "Casual Grinder"
 
-description = "Casual Grinder's Short Story Collection"
+description = "Casual Grinder's Novellettes Collection"
 
-headerTitle = "Casual Grinder Stories"
+headerTitle = "Casual Grinder Novellettes"
 
 motto = "I take characters into deep waters and they discover themselves."
 
@@ -32,11 +32,17 @@ favicon = "https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85s
 
 footerBottomText = "The Hymn In Darkness Project"
 
-reorderNavItems = ["about", "search"]
+reorderNavItems = ["search", "categories", "tags"]
 
 stickyNav = true
 
-rss = true
+showTableOfContents = true
+
+showSummaryCoverInPost = true
+
+showPrevNextPost = true
+
+# rss = true
 
 
 # [services]

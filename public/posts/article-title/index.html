@@ -3,10 +3,10 @@
   x-data
   :class="$store.darkMode.class()"
   :data-theme="$store.darkMode.theme()">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=51192&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Whispering Nature | Casual Grinder Stories</title>
+    <title>Whispering Wounds | Casual Grinder Novellettes</title>
 
     
 <link href="https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no" rel="shortcut icon" type="image/x-icon" />
@@ -19,12 +19,12 @@
 As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagacan plains, a place where tall grass and scattered shrubs stood against the piercing sunlight." />
 
 
-<link rel="canonical" href="http://localhost:1313/posts/article-title/" />
+<link rel="canonical" href="http://localhost:51192/posts/article-title/" />
 
 
-<meta property="og:url" content="http://localhost:1313/posts/article-title/">
-  <meta property="og:site_name" content="Casual Grinder Stories">
-  <meta property="og:title" content="Whispering Nature">
+<meta property="og:url" content="http://localhost:51192/posts/article-title/">
+  <meta property="og:site_name" content="Casual Grinder Novellettes">
+  <meta property="og:title" content="Whispering Wounds">
   <meta property="og:description" content="The hiss of the grass had been going on for an hour now. Lilac was panting as she desperately clung to her prey for the day, moving with precise efficiency as she chased the wild, carnivorous buck. Not just any buck, but a huge gray one. Lilac was armed with a formidable arsenal of hunting weapons, yet they seemed ineffective against the wounded beast.
 As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagacan plains, a place where tall grass and scattered shrubs stood against the piercing sunlight.">
   <meta property="og:locale" content="en_us">
@@ -32,13 +32,13 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2024-08-16T11:16:15+08:00">
     <meta property="article:modified_time" content="2024-08-16T11:16:15+08:00">
-    <meta property="article:tag" content="Short-Story">
+    <meta property="article:tag" content="Novellette">
 
 
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Whispering Nature">
+  <meta name="twitter:title" content="Whispering Wounds">
   <meta name="twitter:description" content="The hiss of the grass had been going on for an hour now. Lilac was panting as she desperately clung to her prey for the day, moving with precise efficiency as she chased the wild, carnivorous buck. Not just any buck, but a huge gray one. Lilac was armed with a formidable arsenal of hunting weapons, yet they seemed ineffective against the wounded beast.
 As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagacan plains, a place where tall grass and scattered shrubs stood against the piercing sunlight.">
 
@@ -91,15 +91,15 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
     <section class="flex items-center gap-4">
       <div class="avatar cursor-pointer hover:online" @click="flip = !flip" title="Flip it!">
         <div class="h-10 rounded-full">
-          <img src="https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no" alt="Casual Grinder Stories" />
+          <img src="https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no" alt="Casual Grinder Novellettes" />
         </div>
       </div>
 
       
       <div>
         
-        <a href="http://localhost:1313/" class="text-lg font-semibold cursor-pointer">
-          Casual Grinder Stories
+        <a href="http://localhost:51192/" class="text-lg font-semibold cursor-pointer">
+          Casual Grinder Novellettes
         </a>
         
         
@@ -130,17 +130,30 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
 
 
 
-
-
-
+<li>
+  <a class="group inline-flex items-center p-2 cursor-pointer" href="/search" title="Search">
+    <ion-icon name="search"></ion-icon>
+    Search
+  </a>
+</li>
 
 
 
 
 <li>
-  <a class="group inline-flex items-center p-2 cursor-pointer" href="/search" title="Search">
-    <ion-icon name="search"></ion-icon>
-    Search
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
   </a>
 </li>
 
@@ -168,15 +181,22 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
 
       
       
-
-
-
-
-
-      
-      
 <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/search" title="Search">
   <ion-icon class="group-hover:text-primary-content" name="search"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
 </a>
 
 
@@ -197,18 +217,30 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
             
 <div class="mt-4 px-4">
   
-  <div>
+  <div class="relative" x-data="{ height: '' }" x-init="height = $el.scrollHeight + 'px'">
   
+    
+    <div class="absolute right-0 lg:w-36 xl:w-48 hidden lg:block" :style="{ height }">
+      <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#credits">Credits</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
     
     <article class="mx-auto prose dark:prose-invert" id="dream-single-post-main">
       <header>
-        <h1>Whispering Nature</h1>
+        <h1>Whispering Wounds</h1>
         <p class="text-sm">
           
             Friday, Aug 16, 2024
           
 
-          | <span>3 minutes read</span>
+          | <span>8 minutes read</span>
 
           
           | <span>Update at
@@ -234,10 +266,10 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
 
 
           <span class="flex items-center gap-2">
-  <a class="group inline-flex items-center p-2 text-sm rounded-full cursor-pointer hover:bg-primary" href="https://twitter.com/intent/tweet?text=Whispering%20Nature&url=http%3a%2f%2flocalhost%3a1313%2fposts%2farticle-title%2f" title="Share on X">
+  <a class="group inline-flex items-center p-2 text-sm rounded-full cursor-pointer hover:bg-primary" href="https://twitter.com/intent/tweet?text=Whispering%20Wounds&url=http%3a%2f%2flocalhost%3a51192%2fposts%2farticle-title%2f" title="Share on X">
     <ion-icon class="group-hover:text-primary-content" name="logo-x"></ion-icon>
   </a>
-  <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fposts%2farticle-title%2f" title="Share on Facebook">
+  <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a51192%2fposts%2farticle-title%2f" title="Share on Facebook">
     <ion-icon class="group-hover:text-primary-content" name="logo-facebook"></ion-icon>
   </a>
 </span>
@@ -245,6 +277,8 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
         </div>
       </header>
 
+      
+      <img src="https://pics.craiyon.com/2023-10-13/d3f97a2402044d23a932679ed92c4c11.webp" alt="Whispering Wounds" />
       
 
       <p>The hiss of the grass had been going on for an hour now. Lilac was panting as she desperately clung to her prey for the day, moving with precise efficiency as she chased the wild, carnivorous buck. Not just any buck, but a huge gray one. Lilac was armed with a formidable arsenal of hunting weapons, yet they seemed ineffective against the wounded beast.</p>
@@ -254,11 +288,39 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
 <p>She walked toward a large hut, entered, and was about to rest when a man appeared before her, his gaze filled with curiosity about her recent activities. Lilac sighed, signaling a consistent failure in her hunt. She shrugged in dismay and said, “Well, at least I can run for an hour now.”</p>
 <p>The man, who happened to be the chieftain in charge of the tribe, responded, “Lady Lilac, it is a great feat! I’m honored to see you progressing despite the setbacks.” His voice always rang with respect for the daughter of the deceased chieftain. “In no time, you’ll claim this position of mine and lead the tribe!”</p>
 <p>“Come on, old man! I know what you want. Sit down here, and I’ll relieve the eternal ache in your shoulder.” She rolled her eyes in irritation, yet she asked with killing seriousness in her thoughts, ‘I wonder, when will I become a chieftain like Father and the great hunter Sisera?’</p>
-<p>After the healing session with Chieftain Sisera, she rested in her room for the whole afternoon. When the sun met the lines of the plain in the west, she fled from the tribe to a secluded spot. It was a place in the Yagacan plain where a single tree stood out from the endless grasses of the savannah—a place where she could reflect and train secretly by herself.</p>
+<p>After the healing session with Chieftain Sisera, she rested in her room for the whole afternoon. When the sun met the lines of the plain in the west, she fled from the tribe to a secluded spot. It was a place in the Yagacan plain where a single tree stood out from the endless grasses of the savannah—a place where she could reflect and train secretly by herself. When she reach the place, the area was occupied by wounded woman.</p>
 <hr>
-<p>Second</p>
-<h3 id="authors-note">Authors Note</h3>
-<p>While many Filipino books and reading materials often delve into themes of love, tragedy, revenge, and betrayal, my story aims to shine a light on different aspects of life. I want to explore the impact of tradition on individuals and communities, the struggles of self-doubt, and the spirit of bayanihan. These themes are deeply rooted in my experiences growing up in the Philippines and offer a fresh perspective on the complexities of Filipino life in a fantastical lens.</p>
+<p>“Ugh! It hurts!” The woman, leaning against the tree and suffering from grave wounds, grimaced. “This will take me a couple of weeks to heal. Those beast-folk got me good.”</p>
+<p>In frustration, she smacked the tree trunk, causing tremors to shake the branches. A gust of wind blew south, enveloping her as she transformed into a lioness. She inhaled deeply, and then a silhouette appeared in the distance.</p>
+<p>The lioness was deeply surprised to realize that a human had seen her transform while she was in such a weakened state. Her mental state shifted from docile to hostile.</p>
+<p>Meanwhile, Lilac was shocked not by the beast-woman’s transformation but by the deep cut she sensed in her gut. Although she appeared uninjured, her ability to connect with the wounded sent shivers down her spine. Without hesitation, she ran toward the lioness but halted when a voice, carried by the wind of the savannah, pierced the secluded grassy area.</p>
+<p>“Brat, I dare you to move one step closer, and you’re dead!” The voice thundered from the sky, accompanied by a blinding light in the lioness’s eyes. “Hey, I told you to stop.”</p>
+<p>“Who&rsquo;s gonna die, missy?” Lilac snorted in disbelief. “Let me tend to those wounds of yours and then get out of my training area. And I’m not a brat!”</p>
+<p>“A healer?” the lioness growled, puzzled. “I thought Gacanias were all brutes, enslaved by their hunting prowess.”</p>
+<p>“What? Do I look like a brute to you?” Lilac stepped into the grassy land, moving closer to the lioness. “And yes, I’m a hunter!”</p>
+<p>“Oh really? You smell like a coward,” the lioness replied, her voice dripping with mockery.</p>
+<p>Lilac gently placed her calloused hands on the lioness’s gut and pressed harder with a smirk, enjoying a small revenge for the lioness’s mockery.</p>
+<p>“Ahhhhh! Please be gen—”</p>
+<p>“I’m a brute after all, you say,” Lilac smirked evilly and added with a serious tone, “Bear with it.”</p>
+<p>“—tle… I take it back, I’m sorry… It really hurts!”</p>
+<p>Lilac secretly bit her lip in pain from her curse. Her aid had been successful, and the lioness showed signs of recovery. “It’s not free! Now, pay me!”</p>
+<p>Her furry companion raised an eyebrow and replied in a thankful manner, “Thank you, I will return it as a favor instead.” She evaded the topic of money because she was really broke at the moment. Lilac then replied, “Get out; that’s the favor!”</p>
+<p>The lioness snorted in disappointment. “You’re a pretty maiden, but you have no manners,” she said, her voice full of concern. “I hope you become who you aspire to be.”</p>
+<p>“How did you know?” Lilac asked with curiosity, but the lioness just stared at her hand. ‘Of course she knows,’ Lilac thought, analyzing her situation. ‘With those kinds of wounds, she must be a true battle-ready individual who has trained far more than I have.’</p>
+<p>“I was born a princess, meant to inherit the legacy of the chieftain—my deceased father. And yes, he is dead. His legacy aptitude was not passed on to me. A legacy of the perpetual Leader bloodline. I was not allowed to inherit anything from just anyone,” she rambled for an hour about her position in the tribe, why the current Chieftain, Sisera, felt miserable in his role. She cried, laughed, and expressed spitefulness throughout her rant. In the end, she was left questioning why she couldn’t meet her tribe’s expectations despite the effort she put in.</p>
+<p>The lioness’s gaze shifted, taking notes of what she was saying. She knew how to take mental notes at least based on her experience. She opened her mouth, then closed it again, thinking about what to say. Finally, she said, “Inherit my legacy instead?”</p>
+<p>Lilac rolled her eyes and said, “I told you, it’s forbidden for a blueblood like me to inherit…” Her speech was cut off with an immediate response from the lioness.</p>
+<p>“I’m not —Just Anyone.”</p>
+<p>Lilac raised an eyebrow and replied, “Oh right, you’re a beast-transforming human. Right, right… You’re —just anything.”</p>
+<p>The lioness wanted to slap her doctor, but she couldn’t; that would be an offense according to her human friend. Instead, she forced a smile and didn’t mind it. She then sighed and wanted to end the conversation by saying goodbye, but Lilac stopped her.</p>
+<p>“You see…” Lilac felt ashamed, her voice a little embarrassed and desperate, “I never said I wouldn’t accept your favor… I’m Lilac, and you are?”</p>
+<p>“Karas… Guardian of the Plains,” Karas replied, smirking with her head held high in pride and honor.</p>
+<hr>
+<p>A month of training sessions with Karas left Lilac in a state of awe and confusion. She discovered that Karas had recently been involved in a war in Gacania Oriental, the eastern part of the Yagacan plains. Karas mentioned that she had been struck by a formidable beast folk sage while defending the area. Although she had bravely faced the war alone, she worried about Northern Gacania, where Lilac later received news that it was being defended by a young sage. This news puzzled Karas, as she only knew of a few sages willing to defend humans, including herself. In fact, there were only two of them, and both had taken the Oath of the Guardian.</p>
+<p>Lilac was both amazed and disappointed. She was amazed because she was receiving guidance from a greater being like Karas. However, throughout the training, she had persistently annoyed Karas by highlighting that she was also a beast folk, ironically protecting humans. Karas defended herself by explaining that she was merely a wild form, a lion blessed by the Earth Dragon Gaia—essentially an animal in the simplest sense—while beast folks were humanoid with an extreme sense of territory.</p>
+<p>Lilac was disappointed because she had been unaware of the ongoing conflict between her tribe and the beast folk. While she had been focused on gaining political advantage, people in parts of the plains were suffering and dying. The old man Sisera had always treated her like a child and had hidden these realities from her.</p>
+<p>Meanwhile, her new aptitude [Transmog of beasts] that harness the strength of beasts was fascinating. She could transform her hands into paws, which was kind of cute. She could also possess the eye of an eagle, the strength of a beetle, or the speed of a horse. Her only problem was that she couldn’t use multiple traits simultaneously, unlike Karas. Karas told her that she could achieve such a feat if she could become one with nature, which was a fundamental requirement to becoming a sage.</p>
+<p>The secret training regime made Lilac a formidable hunter. As the days went by, she brought huge beasts into central Gacania, drawing a lot of attention from the tribe. She was seen as a beautiful goddess of hunting in their eyes. She also gained new acquaintances who joined her on her hunts, which annoyed her because she was losing quality time with Karas. As the days passed, one evening, Lilac was about to go to her training session when Sesira approached her with a troubled face and worried eyes.</p>
 <h3 id="credits">Credits</h3>
 <ul>
 <li><strong><a href="https://www.craiyon.com">www.craiyon.com</a></strong> for the image cover</li>
@@ -266,16 +328,21 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
 
 
       
+      <div class="divider"></div>
+      <div class="flex flex-col md:flex-row justify-between gap-4 py-4">
+        
+        <div></div>
+        
+
+        
+        <div></div>
+        
+      </div>
+      
     </article>
   </div>
 
-  
-
-  
-
   <section class="max-w-[65ch] mx-auto space-y-4">
-    
-
     
 
     
@@ -286,7 +353,7 @@ As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagaca
             <footer class="flex justify-between items-center gap-2 px-4 py-12">
               <div>
   
-  <p>© 2024 Casual Grinder Stories</p>
+  <p>© 2024 Casual Grinder Novellettes</p>
   
 
   

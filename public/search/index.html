@@ -3,10 +3,10 @@
   x-data
   :class="$store.darkMode.class()"
   :data-theme="$store.darkMode.theme()">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=51255&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search | Casual Grinder Stories</title>
+    <title>Search | Casual Grinder Novellettes</title>
 
     
 <link href="https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no" rel="shortcut icon" type="image/x-icon" />
@@ -15,16 +15,16 @@
 
 
 <meta name="author" content="Casual Grinder" />
-<meta name="description" content="Casual Grinder&#39;s Short Story Collection" />
+<meta name="description" content="Casual Grinder&#39;s Novellettes Collection" />
 
 
-<link rel="canonical" href="http://localhost:1313/search/" />
+<link rel="canonical" href="http://localhost:51255/search/" />
 
 
-<meta property="og:url" content="http://localhost:1313/search/">
-  <meta property="og:site_name" content="Casual Grinder Stories">
-  <meta property="og:title" content="Casual Grinder Stories">
-  <meta property="og:description" content="Casual Grinder&#39;s Short Story Collection">
+<meta property="og:url" content="http://localhost:51255/search/">
+  <meta property="og:site_name" content="Casual Grinder Novellettes">
+  <meta property="og:title" content="Casual Grinder Novellettes">
+  <meta property="og:description" content="Casual Grinder&#39;s Novellettes Collection">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
@@ -32,8 +32,8 @@
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Casual Grinder Stories">
-  <meta name="twitter:description" content="Casual Grinder&#39;s Short Story Collection">
+  <meta name="twitter:title" content="Casual Grinder Novellettes">
+  <meta name="twitter:description" content="Casual Grinder&#39;s Novellettes Collection">
 
 
 
@@ -71,15 +71,15 @@
     <section class="flex items-center gap-4">
       <div class="avatar cursor-pointer hover:online" @click="flip = !flip" title="Flip it!">
         <div class="h-10 rounded-full">
-          <img src="https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no" alt="Casual Grinder Stories" />
+          <img src="https://lh3.googleusercontent.com/a/ACg8ocLJzFi_RnpI5Ew9tWSaMiTL4F85sR71_9tgf-VwQGoMqX1iYJ8=s576-c-no" alt="Casual Grinder Novellettes" />
         </div>
       </div>
 
       
       <div>
         
-        <a href="http://localhost:1313/" class="text-lg font-semibold cursor-pointer">
-          Casual Grinder Stories
+        <a href="http://localhost:51255/" class="text-lg font-semibold cursor-pointer">
+          Casual Grinder Novellettes
         </a>
         
         
@@ -110,17 +110,30 @@
 
 
 
-
-
-
+<li>
+  <a class="group inline-flex items-center p-2 cursor-pointer" href="/search" title="Search">
+    <ion-icon name="search"></ion-icon>
+    Search
+  </a>
+</li>
 
 
 
 
 <li>
-  <a class="group inline-flex items-center p-2 cursor-pointer" href="/search" title="Search">
-    <ion-icon name="search"></ion-icon>
-    Search
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
   </a>
 </li>
 
@@ -148,15 +161,22 @@
 
       
       
-
-
-
-
-
-      
-      
 <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/search" title="Search">
   <ion-icon class="group-hover:text-primary-content" name="search"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
 </a>
 
 
@@ -231,7 +251,7 @@
             <footer class="flex justify-between items-center gap-2 px-4 py-12">
               <div>
   
-  <p>© 2024 Casual Grinder Stories</p>
+  <p>© 2024 Casual Grinder Novellettes</p>
   
 
   
@@ -370,7 +390,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 <script>
-  var fuseData = [{"author":"CasualGrinder","avatar":null,"categories":["World Of Altehex"],"description":"The hiss of the grass had been going on for an hour now. Lilac was panting as she desperately clung to her prey for the day, moving with precise efficiency as she chased the wild, carnivorous buck. Not just any buck, but a huge gray one. Lilac was armed with a formidable arsenal of hunting weapons, yet they seemed ineffective against the wounded beast.\nAs the minutes passed, Lilac tripped and fell onto the grassy land of the Yagacan plains, a place where tall grass and scattered shrubs stood against the piercing sunlight.","readingTime":3,"tags":["short-story"],"title":"Whispering Nature","url":"/posts/article-title/"}];
+  var fuseData = [{"author":"Author Name","avatar":null,"categories":["World Of Alterhex"],"description":"Credits www.craiyon.com for the image cover ","readingTime":1,"tags":["lore"],"title":"Lore of Alterhex","url":"/posts/lore-of-alterhex/"}];
   var fuseOptions = {
     keys: [
       "title",

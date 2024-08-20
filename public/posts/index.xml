@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Casual Grinder Stories</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Casual Grinder Stories</description>
+    <title>Posts on Casual Grinder Novellettes</title>
+    <link>http://localhost:51255/posts/</link>
+    <description>Recent content in Posts on Casual Grinder Novellettes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Aug 2024 11:16:15 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2024 22:44:16 +0800</lastBuildDate>
+    <atom:link href="http://localhost:51255/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Whispering Nature</title>
-      <link>http://localhost:1313/posts/article-title/</link>
-      <pubDate>Fri, 16 Aug 2024 11:16:15 +0800</pubDate>
-      <guid>http://localhost:1313/posts/article-title/</guid>
-      <description>The hiss of the grass had been going on for an hour now. Lilac was panting as she desperately clung to her prey for the day, moving with precise efficiency as she chased the wild, carnivorous buck. Not just any buck, but a huge gray one. Lilac was armed with a formidable arsenal of hunting weapons, yet they seemed ineffective against the wounded beast.&#xA;As the minutes passed, Lilac tripped and fell onto the grassy land of the Yagacan plains, a place where tall grass and scattered shrubs stood against the piercing sunlight.</description>
+      <title>Lore of Alterhex</title>
+      <link>http://localhost:51255/posts/lore-of-alterhex/</link>
+      <pubDate>Tue, 20 Aug 2024 22:44:16 +0800</pubDate>
+      <guid>http://localhost:51255/posts/lore-of-alterhex/</guid>
+      <description>Credits www.craiyon.com for the image cover </description>
     </item>
   </channel>
 </rss>
