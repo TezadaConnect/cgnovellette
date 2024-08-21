@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>World of Alterhex on Casual Grinder Novellettes</title>
-    <link>http://localhost:52326/categories/world-of-alterhex/</link>
+    <link>http://localhost:1313/categories/world-of-alterhex/</link>
     <description>Recent content in World of Alterhex on Casual Grinder Novellettes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2024 22:44:16 +0800</lastBuildDate>
-    <atom:link href="http://localhost:52326/categories/world-of-alterhex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Aug 2024 12:33:24 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/world-of-alterhex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lore of Alterhex</title>
-      <link>http://localhost:52326/posts/lore-of-alterhex/</link>
+      <link>http://localhost:1313/posts/lore-of-alterhex/</link>
       <pubDate>Tue, 20 Aug 2024 22:44:16 +0800</pubDate>
-      <guid>http://localhost:52326/posts/lore-of-alterhex/</guid>
-      <description>In the primordial abyss of utter darkness, where only the vast realms of time and space existed, six divine dragons emerged—beings of unimaginable power and influence. Among these were the Wind and Water Dragons, who, in their cosmic wanderings, discovered a massive boulder drifting alone in the void. The Water Dragon claimed the boulder, enveloping it entirely in a great ocean, which ignited the fury of the Wind Dragon. In retaliation, the Wind Dragon summoned torrents of earth from the heavens, shaping the land in a fierce display of power.</description>
+      <guid>http://localhost:1313/posts/lore-of-alterhex/</guid>
+      <description>In the primordial abyss of utter darkness, where only the vast realms of time and space existed, six divine dragons emerged—beings of unimaginable power and elemental influence. Among them were the Wind and Water Dragons, who, in their cosmic wanderings, discovered a massive boulder drifting alone in the void. The Water Dragon claimed the boulder, enveloping it entirely in a great ocean. This act ignited the fury of the Wind Dragon, who retaliated by gathering cosmic rocks from the void and hurling them into the ocean, causing waves and upheavals that shaped the land in a fierce display of power.</description>
     </item>
   </channel>
 </rss>

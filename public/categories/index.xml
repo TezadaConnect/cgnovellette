@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Casual Grinder Novellettes</title>
-    <link>http://localhost:52326/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Casual Grinder Novellettes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2024 22:44:16 +0800</lastBuildDate>
-    <atom:link href="http://localhost:52326/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Aug 2024 12:33:24 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>World of Alterhex</title>
-      <link>http://localhost:52326/categories/world-of-alterhex/</link>
+      <link>http://localhost:1313/categories/world-of-alterhex/</link>
       <pubDate>Tue, 20 Aug 2024 22:44:16 +0800</pubDate>
-      <guid>http://localhost:52326/categories/world-of-alterhex/</guid>
+      <guid>http://localhost:1313/categories/world-of-alterhex/</guid>
       <description></description>
     </item>
   </channel>
