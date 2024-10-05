@@ -1,10 +1,10 @@
-baseURL = 'https://cgnovelettes.netlify.app/'
+baseURL = 'https://cgflashfic.netlify.app/'
 
 languageCode = 'en-us'
 
 defaultContentLanguage = "en"
 
-title = 'Casual Grinder Novelettes'
+title = 'Casual Grinder Flash Fictions'
 
 theme = "dream"
 
@@ -20,9 +20,9 @@ darkTheme = "forest"
 
 author = "Casual Grinder"
 
-description = "Casual Grinder's Novelettes Collection"
+description = "Casual Grinder's Flash Fiction Collections"
 
-headerTitle = "Casual Grinder Novelettes"
+headerTitle = "Casual Grinder Flash Fiction"
 
 motto = "I take characters into deep waters and they discover themselves."
 

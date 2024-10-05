@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Casual Grinder Flash Fictions</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Casual Grinder Flash Fictions</description>
+    <title>Flash on Casual Grinder Novelettes</title>
+    <link>http://localhost:1313/tags/flash/</link>
+    <description>Recent content in Flash on Casual Grinder Novelettes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 18:40:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/flash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After the Time Between Day and Night</title>
       <link>http://localhost:1313/posts/after-the-time-between-day-and-night/</link>
