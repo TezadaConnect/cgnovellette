@@ -26,7 +26,7 @@ The morning buzzed around her as Clair approached the room. Another day of dry-m
 
 ### Authors Note
 
-It was lunchtime when I saw some colleagues from another department holding a pizza box and some other food. Curious, I asked them what was going on as we rode the elevator together. One of them replied, "It's World Teachers' Day!" In that moment, I felt a bit embarrassed and didn’t know what to say. Even though they work in a different field now, they haven’t forgotten who they used to be. It was truly something special to witness!
+It was lunchtime when I saw some colleagues from another department holding a pizza box and some other food. Curious, I asked them what was going on as we rode the elevator together. One of them replied, "It's World Teachers' Day!" In that moment, I felt a bit embarrassed and didn’t know what to say. Even though they work in a different field now, they haven’t forgotten who they used to be. It was truly something special to witness, Truly just not another day!
 
 ### Credits
 
