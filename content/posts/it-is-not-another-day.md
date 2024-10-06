@@ -27,7 +27,7 @@ She ran through the sidewalks and hailed a public vehicle. Once seated, she calm
 
 Taking a deep breath with precise intention, she muttered, “Here we go again!”
 
-The morning buzzed around her as Clair approached a room. Another day of dry-mouthed lessons, she thought. But as she stood in the doorway, staring at the eager faces of her students, her hunger grew stronger. Seeing a small note of appreciation on the table beside some food, she smile. "Perhaps it isn’t another day" she said.
+The morning buzzed around her as Clair approached the room. Another day of dry-mouthed lessons, she thought. But as she stood in the doorway, staring at the eager faces of her students, her hunger grew stronger. Seeing a small note of appreciation on the table beside some food, she smiled. "Perhaps it isn’t another day," she said.
 
 ### Authors Note
 
