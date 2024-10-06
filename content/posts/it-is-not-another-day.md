@@ -1,28 +1,33 @@
 ---
 title: It Is Not Another Day
+
 date: 2024-10-06T10:35:31+08:00
+
 lastmod: 2024-10-06T10:35:31+08:00
+
 author: CasualGrinder
-# avatar: /img/author.jpg
-# authorlink: https://author.site
+
 cover: https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
 images:
   - https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
 categories:
   - Mundane
+
 tags:
   - flash-fiction
-# nolastmod: true
+
 draft: false
 ---
 
 Clair's tummy growled with hunger; she had no time to cook. The plans were ready, and the lessons were about to begin. Yet time ticked away as if it were about to leave her behind.
 
-She ran through the sidewalks and hailed a public vehicle. Once seated, she calmed herself, as if this brief moment was hers alone. The vehicle sped quickly, and soon it was time to get off and walk toward the towering building.
+She ran through the sidewalks and hailed a public vehicle. Once seated, she calmed herself, as if this brief moment was hers alone. The vehicle sped quickly, and soon it was time to get off and walk toward a towering building.
 
 Taking a deep breath with precise intention, she muttered, “Here we go again!”
 
-The morning buzzed around her as Clair approached the room. Another day of dry-mouthed lessons, she thought. But as she stood in the doorway, staring at the eager faces of her students, her hunger grew stronger. Seeing a small note of appreciation on the table beside some food, "Perhaps it isn’t another day" she said.
+The morning buzzed around her as Clair approached a room. Another day of dry-mouthed lessons, she thought. But as she stood in the doorway, staring at the eager faces of her students, her hunger grew stronger. Seeing a small note of appreciation on the table beside some food, she smile. "Perhaps it isn’t another day" she said.
 
 ### Authors Note
 

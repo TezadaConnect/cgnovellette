@@ -9,6 +9,9 @@ author: CasualGrinder
 
 cover: https://images.unsplash.com/photo-1510851896000-498520af2236?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 
+images:
+  - https://images.unsplash.com/photo-1510851896000-498520af2236?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
 categories:
   - Mundane
 
