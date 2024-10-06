@@ -28,6 +28,10 @@ She closed her eyes, trying to make sense of his words. When she opened them aga
 
 She lit the lamp and glanced out the window in front of her. Behind it was a city full of lights, yet what she saw was a reflection staring at her --- tired, worn, and unfamiliar. It was after the time between day and night that she truly saw herself.
 
+### Authors Note
+
+I always push myself hard, regardless of the consequences, until I was hospitalized. It was then that my immune system weakened, and I was diagnosed with chronic kidney disease. My perspective shifted to something else, something better, as if I no longer knew myself.
+
 ### Credits
 
 Image taken by @jcgellidon at [Unplash](https://unsplash.com/@jcgellidon)
