@@ -1,5 +1,5 @@
 ---
-title: Clothe of Awe
+title: Clothe in Reverie
 date: 2024-11-27T21:30:10+08:00
 lastmod: 2024-11-27T21:30:10+08:00
 author: CasualGrinder
