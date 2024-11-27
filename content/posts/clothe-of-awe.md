@@ -17,7 +17,7 @@ Twisted and ticking, the doors hinged, creaked open and gave passage through a d
 
 He took a seat on the only visible chair in the room, his fingers, meanwhile, brushed for a lump in a flat panel. Ken leaned all his weight to the chair’s backrest, both hands hung fall, His eyes drifted to the wall where a framed jersey was mounted—it almost touched the room's ceiling.
 
-Light flickered from beneath, it pulled his gaze to the panel. The view drowned him with old memories. It made him smile for a moment. It has been quite a while since he felt like that. Since when was the last? After I got a job, maybe? he wonders.
+Light flickered from beneath, it pulled his gaze to the panel. The view drowned him with old memories. It made him smile for a moment. It has been quite a while since he felt like that. _Since when was the last? After I got a job, maybe?_ he wonders.
 
 Regaining his senses from marvel, he moved his right arm to reach for the clicker. Swoosh-stop-click, it was his hand gesture. A word on display inside a white rectangular shape drawn on the screen was very familiar—only this time it was for him to watch. Swoosh-stop-click Play.
 
