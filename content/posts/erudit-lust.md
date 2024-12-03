@@ -33,7 +33,7 @@ It seems that yesterday they taught him---today he seems arrogant. But all he ha
 
 ### Authors Note
 
-was invited to a wedding party where I saw an old colleague. Back then, I remember he had little background in a particular technology I was enthusiastic about. I taught him the mindset needed to approach it, and now, I think his skill level is decent, as I’m very familiar with the tech. However, I realized that the office I left behind has a considerable skill gap compared to him now.
+Was invited to a wedding party where I saw an old colleague. Back then, I remember he had little background in a particular technology I was enthusiastic about. I taught him the mindset needed to approach it, and now, I think his skill level is decent, as I’m very familiar with the tech. However, I realized that the office I left behind has a considerable skill gap compared to him now.
 
 This short story I wrote was inspired by that encounter. It reminded me of myself when my peers had difficulty keeping up with me. Whenever they felt like I was being arrogant, I would tell them that I’m just very enthusiastic about the subject, and I’m sorry if it comes off that way.
 
