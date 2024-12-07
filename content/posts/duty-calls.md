@@ -15,13 +15,13 @@ tags:
 draft: false
 ---
 
-If a lab speaks in silence, only then a sound can be heard. White walls stained by red, clear under the incandescent bright. Cut here and there—my mad exploration against the captive specimen.
+Lab speaks in silence, after that, noises can be heard. White walls are stained by dried red under the lined lights. Cut here and there, it is just another day against the captive specimen.
 
-If duty calls, then I could engage in horror. I’ve done this. It was a great pursuit of biology, well, it was before it striked.
+If duty calls, then I could engage in horror. I’ve done this. It was a great pursuit in biology. Well, It once was, before the day it striked.
 
-Have nothing now. Have nothing to pride. I’ll pluck one finger and another. One organ and another, and there are far more worse.
+Have nothing now but disgraced perhaps. Still, I’ll pluck one finger and another. One organ and another, and there will be far more worse.
 
-I’ve done this. If war persisted, duty calls.
+I’ve done this. If war prolonged, duty calls.
 
 ### Authors Note
 
