@@ -29,7 +29,7 @@ Each day his growth’s monumental, leaving his peers behind. His questions reac
 
 Lorence was already ahead of the curve on a day when everyone else in the office was discussing something new they had learned. He discussed them more.
 
-It seems that yesterday they taught him---today he seems arrogant. But all he had done was to learn.
+It seems that yesterday they taught him---today he seems competent. But all he had done was to learn.
 
 ### Authors Note
 
