@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prose-Poem on Casual Grinder Flash Fictions</title>
+    <link>http://localhost:1313/tags/prose-poem/</link>
+    <description>Recent content in Prose-Poem on Casual Grinder Flash Fictions</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 12:34:56 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/prose-poem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Sailor&#39;s Vow</title>
+      <link>http://localhost:1313/posts/your-sailors-vow/</link>
+      <pubDate>Tue, 11 Feb 2025 12:34:56 +0800</pubDate>
+      <guid>http://localhost:1313/posts/your-sailors-vow/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
