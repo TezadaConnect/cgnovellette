@@ -16,7 +16,7 @@ tags:
 draft: false
 ---
 
-‘Why do I do this?’ He asked himself. Trembling thighs, lying on the floor—past nineteen in the evening.
+‘Why do I do this?’ he asked himself. Trembling thighs, lying on the floor—past nineteen in the evening.
 
 “Seventy seven… seventy seven…” he chanted, that number never left his mind for two weeks. Things were… at least daunting for him—After all, he had set a three- to six-day commitment per week. But hey, he’s done it for three months already!
 
@@ -24,7 +24,7 @@ Weekdays were draining at work, but he chose to proceed in the sanctuary of stra
 
 On Weekends he tried to run to a road where a ruthless elevation resides.
 
-He’d done it all. Some weeks were just three or four days, but this week he managed six. ‘Why do I do this?’ Again, he asked.
+He’d done it all. Some weeks were just three or four days, but this week he managed six. ‘Why do I do this?’ again, he asked.
 
 He moved his head and stared at a near dark scale. He then forced himself off the ground. It was energy draining, though it was easy unlike before.
 
